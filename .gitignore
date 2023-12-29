@@ -1,0 +1,15 @@
+/assets/environments/dev/.terraform
+/assets/environments/dev/objects
+/assets/environments/dev/.terraform.lock.hcl
+/assets/environments/dev/index.zip
+/assets/environments/dev/terraform.tfstate
+/assets/environments/dev/terraform.tfstate.backup
+/assets/asset_nginx/key.json
+/assets/asset_nginx/.terraform
+/assets/asset_nginx/.terraform.lock.hcl
+/assets/asset_nginx/terraform.tfstate.backup
+/assets/asset_nginx/terraform.tfvars
+/assets/environments/dev/terraform.tfvars
+
+
+/keys
